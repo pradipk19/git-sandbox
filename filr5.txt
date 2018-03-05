@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 adding line to demonstarted git commit ammend
+=======
+my project changes independent of the stash commits
+>>>>>>> Stashed changes
