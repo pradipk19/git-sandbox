@@ -1,3 +1,5 @@
 This is the 4th file
 
-creating conflict to test out git merge
+Resolving-Creating conflict from my-project directory to test the git fetch+merge
+
+Resolving creating conflict to test out git merge
