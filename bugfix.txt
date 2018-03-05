@@ -1,3 +1,7 @@
+
 Fixing a bug by committing changes to bug_fix branch
 making some bug fixes
+
+merging with  
+Making changes for the new feature branch
 

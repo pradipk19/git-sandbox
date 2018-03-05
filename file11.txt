@@ -1,1 +1,5 @@
+
 New bug_fix file 
+merged with
+newfeature file change
+
