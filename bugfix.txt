@@ -1,1 +1,3 @@
-Fixing a bug by committing changes to bug_fix branch
+Fixing a bug by committing changes to bug_fix branch.
+
+Making changes for the new feature branch
