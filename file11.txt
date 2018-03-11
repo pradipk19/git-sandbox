@@ -3,3 +3,4 @@ New bug_fix file
 merged with
 newfeature file change
 
+Another stash example
