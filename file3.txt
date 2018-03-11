@@ -2,3 +2,5 @@ Commiting the changes from my project dir as the 3rd file
 
 
 Adding line to demonstarte ammendment in git commit
+
+Chekcing default git reset

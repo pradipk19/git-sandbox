@@ -3,4 +3,7 @@ New bug_fix file
 merged with
 newfeature file change
 
+making changes for git checkout commit
+
 Another stash example
+

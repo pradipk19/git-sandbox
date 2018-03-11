@@ -3,3 +3,5 @@ This is the 4th file
 Resolving-Creating conflict from my-project directory to test the git fetch+merge
 
 Resolving creating conflict to test out git merge
+
+Testing default reset
